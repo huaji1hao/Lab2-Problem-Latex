@@ -1,9 +1,8 @@
 # LaTeX专题
 
-# <table><tr><td bgcolor=#D1EEEE>抄题解是不对的QAQ
-  
-  请用于学习用途
-  </td></tr></table>
+# <table><tr><td bgcolor=#D1EEEE>抄题解是不对的QAQ</td></tr></table>
+
+请用于学习用途
 
 使用方法：点击右上角绿色的code，然后download ZIP，如果电脑已经安装了TeXWork的运行环境就可以直接打开了
 
