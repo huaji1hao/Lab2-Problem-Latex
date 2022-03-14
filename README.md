@@ -7,3 +7,5 @@
 没有的话可以去这里下  https://miktex.org/download
 
 数学软件应用里LaTeX里那个练习2，要和Euler图片文件在同一文件夹下才能编译成功
+
+# 来看过的同学记得点赞，就是右上角的Star☆
